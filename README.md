@@ -1,5 +1,7 @@
 # EmployeeAnalyticsHub
 
+# EmployeeAnalyticsHub
+
 ![Employee Overview Dashboard](screenshots/page1.png)
 
 **EmployeeAnalyticsHub** is an advanced workforce analytics portfolio project that harnesses MySQL and Power BI to deliver deep insights into employee demographics, tenure, diversity, and predictive trends. Designed to showcase expertise in SQL query development and interactive data visualization, this project provides a comprehensive analysis of an employee dataset, offering actionable insights for HR decision-making.
@@ -55,3 +57,42 @@ EmployeeAnalyticsHub/
     ├── page2.png         # Hiring & Attrition Trends
     ├── page3.png         # Diversity & Inclusion
     └── page4.png         # Predictive Analytics
+```
+
+---
+
+## Employee Insights & Highlights
+
+### Overview
+This project analyzes employee demographics using a sample dataset (`employees_sample.csv`). The insights below focus on *Page 1: Employee Overview & Demographics* and are scalable to larger datasets.
+
+### Page 1: Employee Overview & Demographics
+
+#### Total Number of Employees (Q1)
+- **Insight**: "As of March 13, 2025, the workforce consists of 2 employees, providing a foundation for analysis that scales to [X] with full data."
+- **Sample**: 2 employees (Kimmy and Ignatius).
+
+#### Gender Distribution Across the Workforce (Q2)
+- **Insight**: "Currently 100% male, reflecting the sample size; with broader data, expect a mix (e.g., 60% male, 40% female), highlighting gender representation trends."
+- **Sample**: 2 males, 0 females.
+
+#### Race/Ethnicity Breakdown by Department (Q3)
+- **Insight**: "The sample shows a 50% Hispanic or Latino and 50% White split across Engineering and Business Development, suggesting early diversity that could expand to [X]% [Race] in [Department] with more data."
+- **Sample**: 1 Hispanic or Latino (Engineering), 1 White (Business Development).
+
+#### Age Distribution of Employees (Q4)
+- **Insight**: "Employees are aged 33-34 in the sample, indicating a young workforce; expect a range of 25-65 with a peak at [X-Y] years in a full dataset."
+- **Sample**: Kimmy (34), Ignatius (33).
+
+#### Geographic Spread by State & City (Q18)
+- **Insight**: "100% of employees are located in Cleveland, Ohio, suggesting a centralized hub; additional data may reveal [X]% distribution across [other states/cities]."
+- **Sample**: 2 employees in Cleveland, Ohio.
+
+#### Visual Representation
+[Include Power BI screenshots or charts here]
+
+---
+
+### Notes
+- This analysis is based on a small sample and will become more robust as data volume increases.
+- Further pages in the dashboard will explore additional aspects such as tenure, job roles, and salary trends.
