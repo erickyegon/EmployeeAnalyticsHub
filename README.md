@@ -1,7 +1,5 @@
 # EmployeeAnalyticsHub
 
-# EmployeeAnalyticsHub
-
 ![Employee Overview Dashboard](screenshots/page1.png)
 
 **EmployeeAnalyticsHub** is an advanced workforce analytics portfolio project that harnesses MySQL and Power BI to deliver deep insights into employee demographics, tenure, diversity, and predictive trends. Designed to showcase expertise in SQL query development and interactive data visualization, this project provides a comprehensive analysis of an employee dataset, offering actionable insights for HR decision-making.
